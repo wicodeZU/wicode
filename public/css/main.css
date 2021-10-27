@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}.image{display:flex;width:600px;justify-content:center;align-items:center;margin:0 auto;padding:50px}.image img{border-radius:50%;animation:rotation 2s infinite linear}@keyframes rotation{from{transform:rotate(0deg)}to{transform:rotate(359deg)}}
+/*# sourceMappingURL=main.css.map */
