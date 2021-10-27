@@ -1,0 +1,8 @@
+// all scss will go here
+$font-color: black;
+@mixin mq {
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
