@@ -11,10 +11,14 @@
     height: 500px;
     flex-direction: column;
     background-color: rgb(4, 48, 48);
-    nav{
+    // position: sticky;
+    // top: 0;
+    .nav{
         display: flex;
         justify-content: space-around;
         align-items: center;
+        position: sticky;
+        top: 0;
         .nav-logo{
             h2{
                 color: whitesmoke;
